@@ -11,11 +11,21 @@
 
 ### Tecnologías y herramientas
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,python,git,github,vscode" alt="Tecnologías y herramientas" />
+<h3>Lenguajes y tecnologías</h3>
 
-</div>
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend">
+
+<h4>Backend y bases de datos</h4>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql" alt="Backend">
+
+<h4>Desarrollo móvil</h4>
+<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio" alt="Desarrollo móvil">
+
+<h4>Herramientas de desarrollo</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Herramientas">
+
 
 ### Estadísticas de GitHub
 
