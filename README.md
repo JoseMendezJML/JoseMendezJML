@@ -37,9 +37,37 @@
 
 </div>
 
+
 ### Proyectos destacados
 
-Próximamente compartiré aquí mis proyectos de desarrollo web, aplicaciones y soluciones tecnológicas.
+#### LumaTek | Sistema Inteligente de Gestión de Invernaderos
+
+LumaTek es un proyecto de desarrollo de software enfocado en
+la gestión y monitoreo inteligente de invernaderos.
+
+El sistema busca facilitar la administración de cultivos
+mediante una plataforma web y la integración de sensores IoT.
+
+**Tecnologías utilizadas:**
+
+- Backend: PHP y Laravel
+- Base de datos: MySQL
+- Frontend: HTML, CSS y JavaScript
+- Control de versiones: Git y GitHub
+- IoT: ESP32 y sensores ambientales (en desarrollo)
+
+**Mi participación en el proyecto:**
+
+- Desarrollo e implementación de funcionalidades web.
+- Diseño y gestión de bases de datos.
+- Implementación de validaciones y pruebas.
+- Colaboración mediante ramas y pull requests en GitHub.
+
+**Repositorio:**
+
+[Ver proyecto LumaTek en GitHub](https://github.com/JoseMendezJML/LumaTek-Web)
+
+---
 
 ---
 
