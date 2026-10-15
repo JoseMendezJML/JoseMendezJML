@@ -1,19 +1,6 @@
 <p align="center">
   <img src="./banner-github.png" alt="Banner de José Juan Méndez Lara" />
 </p>
-<div align="center">
-
-# José Juan Méndez Lara
-
-### Software Developer | Full Stack Developer in Progress
-
-Estudiante de Ingeniería en Desarrollo y Gestión de Software
-
-Apasionado por el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
-
-</div>
-
----
 
 ### Sobre mí
 
