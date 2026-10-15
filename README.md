@@ -47,25 +47,18 @@
 <a href="https://github.com/JoseMendezJML/LumaTek-Web">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMendezJML&repo=LumaTek-Web&theme=tokyonight"
-    alt="Proyecto LumaTek"
+    alt="LumaTek-Web"
   />
 </a>
-
-<p>
-  Sistema web para la gestión y monitoreo inteligente
-  de invernaderos, desarrollado con Laravel y MySQL.
-</p>
 
 </div>
 
 ---
 
----
-
 <div align="center">
 
-### Gracias por visitar mi perfil
+<h3>Gracias por visitar mi perfil</h3>
 
-*Siempre aprendiendo, programando y mejorando.*
+<i>Siempre aprendiendo, programando y mejorando.</i>
 
 </div>
