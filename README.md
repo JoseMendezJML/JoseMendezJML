@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner-github.png" alt="Banner de José Juan Méndez Lara" />
+</p>
 <div align="center">
 
 # José Juan Méndez Lara
